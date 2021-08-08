@@ -1,0 +1,70 @@
+body {
+    height: 100%;
+    padding: 14px 16px;
+    background-color: powderblue;
+  background-image: url("/images/New+Zealand.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  
+}
+  
+  
+  .h1 {
+    text-align: center;
+    font-size: 75px;
+    color: red;
+  }
+  
+
+  .cr {
+      color: red;
+  }
+
+
+
+  .cg{
+      color: rgb(32, 245, 139);
+  }
+
+
+  .ts{
+      text-shadow: 2px 2px 5px springgreen;
+      text-align: center;
+      color: orangered;
+      font-size: 75px;
+  }
+
+
+  .p1{
+      font-family: fantasy;
+  }
+
+
+  .topnav{
+      color: teal;
+      overflow: hidden;
+  }
+
+
+  .topnav a {
+    
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 36px 34px;
+        text-decoration: none;
+        font-size: 75px;
+      }
+  
+
+      /* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
